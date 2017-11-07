@@ -11,7 +11,7 @@ namespace testSignalR.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            //change
             return View();
         }
     }
